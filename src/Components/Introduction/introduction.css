@@ -1,0 +1,38 @@
+.introduction .container{
+  /* background-color: red; */
+  height: 60vh;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.profile-desc{
+  /* word-spacing: 20px; */
+  width:90%;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 70px;
+  color: #393b60;
+  /* background-color: red; */
+}
+
+.profile-img{
+  width: 50%;
+  /* background-color: black; */
+}
+
+.profile-name{
+  background: linear-gradient(to left,#0452aa,#11b7fe);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.profile-img img{
+  border: 2px solid rgb(9, 48, 111);
+  height: 350px;
+  border-radius: 50%;
+}

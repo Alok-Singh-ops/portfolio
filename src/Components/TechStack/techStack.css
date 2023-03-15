@@ -1,0 +1,17 @@
+.techStack .container-fluid{
+  text-align: center;
+  width: fit-content;
+}
+
+.techStack h3{
+  color: #42446E;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+}
+.techStack-heading div{
+  color: #666666;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+}
