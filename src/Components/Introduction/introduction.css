@@ -1,6 +1,5 @@
-.introduction .container{
-  /* background-color: red; */
-  height: 60vh;
+.introduction{
+
   margin: auto;
   text-align: center;
   justify-content: center;
@@ -33,6 +32,6 @@
 
 .profile-img img{
   border: 2px solid rgb(9, 48, 111);
-  height: 350px;
+  /* height: 300px; */
   border-radius: 50%;
 }

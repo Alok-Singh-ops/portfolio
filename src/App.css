@@ -1,0 +1,71 @@
+#light{
+  background-color: white;
+}
+
+
+/* Dark mode */
+#dark{
+  background-color: black;
+}
+
+/* navbar */
+#dark .navbar{
+  background-color: black !important;
+  color: white;
+}
+
+#dark .nav-link{
+  color: rgb(191, 189, 189);
+}
+
+#dark .navbar-brand{
+  color: rgb(191, 189, 189);
+}
+
+#dark .navbar-toggler{
+  color: rgb(191, 189, 189);
+}
+
+
+/* introduction */
+
+#dark .profile-desc{
+  color: rgb(191, 189, 189);
+}
+
+/* TechStack */
+
+#dark .techStack-heading h3{
+  color: rgb(191, 189, 189);
+}
+
+
+
+
+#dark .card-body{
+  background-color: rgb(100, 99, 99);
+  color: rgb(226, 224, 224);
+}
+
+#dark .card-body a i {
+  color: rgb(226, 224, 224);
+}
+
+#dark .card-body .link-secondary{
+  color: rgb(226, 224, 224)
+  !important;
+}
+
+/* Footer */
+
+#dark footer{
+  background-color: black !important;
+  color: rgb(255, 255, 255) !important;
+}
+
+
+/* Projects */
+
+#dark .projects h3{
+  color: white;
+}

@@ -1,0 +1,23 @@
+.card img{
+  height: 10rem;
+}
+
+.project img{
+  background: transparent;
+  /* height: 10rem; */
+}
+
+.project a{
+  margin-left: 10px;
+}
+
+
+.project i{
+  margin-right: 5px;
+}
+
+.project .card{
+  border-radius: 40px;
+}
+
+

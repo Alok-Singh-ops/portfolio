@@ -2,99 +2,108 @@ const data = {
   techStack: [
     {
       name: "Html",
-      image: ""
+      image: "../assests/html.png"
     },
     {
       name: "Css",
-      image: ""
+      image: "../assests/css.png"
     },
     {
       name: "Javascript",
-      image: ""
+      image: "../assests/js.png"
     },
     {
       name: "C++",
-      image: ""
+      image: "../assests/c++.png"
     },
     {
       name: "Java",
-      image: ""
+      image: "../assests/java.png"
     },
     {
       name: "React",
-      image: ""
+      image: "../assests/react.png"
     },
     {
       name: "Redux",
-      image: ""
+      image: "../assests/redux.png"
     },
     {
       name: "Bootstrap",
-      image: ""
+      image: "../assests/bootstrap.png"
     },
     {
       name: "Git",
-      image: ""
+      image: "../assests/git.png"
     },
     {
       name: "Github",
-      image: ""
+      image: "../assests/github.png"
     },
     {
       name: "MongoDB",
-      image: ""
+      image: "../assests/mongoDB.png"
     },
     {
       name: "NodeJS",
-      image: ""
+      image: "../assests/nodejs-light.png"
     },
     {
       name: "MYSQL",
-      image: ""
+      image: "../assests/mySql.png"
     }
   ],
   projects: [
     {
-      name: "1",
+      title: "E-commerce",
       description: "",
-      image: "",
-      livePreview: "",
+      image: "../assests/e-commerce.png",
+      livePreview: "https://e-commerce-3cf83.web.app/",
+      sourceCode: "https://github.com/Alok-Singh-ops/E-commerce",
+    },
+    {
+      title: "NetFlix Clone",
+      description: "",
+      image: "../assests/netflix-clone.png",
+      livePreview: "https://netflix-clone-317617.web.app",
+      sourceCode: "https://github.com/Alok-Singh-ops/NetFlix-clone",
+    },
+    {
+      title: "Vaccine Tracker",
+      description: "",
+      image: "../assests/vaccine-slot.png",
+      livePreview: "https://alok-singh-ops.github.io/javaScriptProjects/5.%20Vaccine%20Avail/vaccine.html",
       sourceCode: "",
     },
     {
-      name: "2",
+      title: "Book List",
       description: "",
-      image: "",
-      livePreview: "",
+      image: "../assests/book-list.png",
+      livePreview: "https://alok-singh-ops.github.io/javaScriptProjects/4.%20Book%20List%20Ui/index.html",
       sourceCode: "",
     },
     {
-      name: "3",
+      title: "Book List",
       description: "",
-      image: "",
-      livePreview: "",
+      image: "../assests/book-list.png",
+      livePreview: "https://alok-singh-ops.github.io/javaScriptProjects/4.%20Book%20List%20Ui/index.html",
       sourceCode: "",
     },
     {
-      name: "4",
+      title: "Book List",
       description: "",
-      image: "",
-      livePreview: "",
+      image: "../assests/book-list.png",
+      livePreview: "https://alok-singh-ops.github.io/javaScriptProjects/4.%20Book%20List%20Ui/index.html",
       sourceCode: "",
     },
     {
-      name: "5",
+      title: "NetFlix Clone",
       description: "",
-      image: "",
-      livePreview: "",
-      sourceCode: "",
+      image: "../assests/netflix-clone.png",
+      livePreview: "https://netflix-clone-317617.web.app",
+      sourceCode: "https://github.com/Alok-Singh-ops/NetFlix-clone",
     },
-    {
-      name: "6",
-      description: "",
-      image: "",
-      livePreview: "",
-      sourceCode: "",
-    }
   ]
 }
+
+export default data;

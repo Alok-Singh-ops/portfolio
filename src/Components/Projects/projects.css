@@ -1,40 +1,31 @@
 
-.techStack .container-fluid{
+.projects .container-fluid{
   text-align: center;
 
 }
 
-.techStack h3{
+.projects h3{
   color: #42446E;
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 700;
 }
-.techStack-heading div{
+.projects-heading div{
   color: #666666;
   font-family: 'Poppins';
   font-style: normal;
   font-weight: 400;
 }
 
-/* .techStack-details{
+/* .projects-details{
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   row-gap: 4rem;
 } */
-.project{
-  border-radius: 20px 20px 0px 0px;
-}
 
-.techStack-details div{
-  margin-left: 30px;
-}
 
-.techStack-details .card img{
-  width: 10rem;
-  height: 6;
-}
 
-.techStack-details .card{
+
+.projects-details .card{
   border: none;
 }
